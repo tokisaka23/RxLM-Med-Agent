@@ -103,6 +103,6 @@ RxLM-Med/
 # References
 [Qwen-VL: A Versatile Vision-Language Model](https://github.com/QwenLM/Qwen-VL)  
 [ModelScope SWIFT](https://github.com/modelscope/ms-swift)  
-[PubMed E-utilities](https://www.ncbi.nlm.nih.gov/books/NBK25501/)
-[Direct Preference Optimization (DPO)](https://arxiv.org/abs/2305.18290)
+[PubMed E-utilities](https://www.ncbi.nlm.nih.gov/books/NBK25501/)  
+[Direct Preference Optimization (DPO)](https://arxiv.org/abs/2305.18290)  
 [LangSmith: Unified DevOps for LLMs](https://www.langchain.com/langsmith/observability)
