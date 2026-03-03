@@ -1,0 +1,1792 @@
+[
+  {
+    "variant_id": "Var_01_Defocus",
+    "risk_level": "RED",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-02-28 23:12",
+      "clinical_diagnosis": "2型糖尿病酮症酸中毒 (DKA)",
+      "patient_info": {
+        "name": "张*华",
+        "sex": "男",
+        "age": 69,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20256697"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 450,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.19,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 95,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 12.4,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 97,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 25.6,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 4.0,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 1.0,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 30.8,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 130,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "variant_id": "Var_02_Flash",
+    "risk_level": "YELLOW",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-02-27 23:36",
+      "clinical_diagnosis": "2型糖尿病酮症酸中毒 (DKA)",
+      "patient_info": {
+        "name": "李*英",
+        "sex": "女",
+        "age": 66,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20256439"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 450,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.25,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 95,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 19.1,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 97,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 18.9,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 4.0,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 1.0,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 13.85,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 130,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "variant_id": "Var_03_LowLight",
+    "risk_level": "RED",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-02-21 23:36",
+      "clinical_diagnosis": "I型呼吸衰竭",
+      "patient_info": {
+        "name": "王*国",
+        "sex": "男",
+        "age": 50,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20257189"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 178.4,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.4,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 54.9,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 83.2,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 14,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 4.0,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 1.0,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 5.0,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 130,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "variant_id": "Var_04_Keystone",
+    "risk_level": "YELLOW",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-03-02 23:36",
+      "clinical_diagnosis": "I型呼吸衰竭",
+      "patient_info": {
+        "name": "赵*兰",
+        "sex": "男",
+        "age": 65,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20253803"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 328.6,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.4,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 73.8,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 88.7,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 14,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 4.0,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 1.0,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 5.0,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 130,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "variant_id": "Var_05_MotionBlur",
+    "risk_level": "RED",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-03-01 23:36",
+      "clinical_diagnosis": "重度缺铁性贫血",
+      "patient_info": {
+        "name": "孙*平",
+        "sex": "男",
+        "age": 74,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20256726"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 450,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.4,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 95,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 97,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 14,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 4.0,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 1.0,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 5.0,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 47.7,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 18.2,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "variant_id": "Var_06_MeshWarping",
+    "risk_level": "YELLOW",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-03-03 23:36",
+      "clinical_diagnosis": "重度缺铁性贫血",
+      "patient_info": {
+        "name": "陈*明",
+        "sex": "女",
+        "age": 64,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20256809"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 450,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.4,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 95,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 97,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 14,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 4.0,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 1.0,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 5.0,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 94.8,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 27.8,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "variant_id": "Var_07_Stain",
+    "risk_level": "RED",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-02-28 23:36",
+      "clinical_diagnosis": "脓毒症伴高乳酸血症",
+      "patient_info": {
+        "name": "周*珍",
+        "sex": "男",
+        "age": 83,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20251432"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 450,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.32,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 95,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 97,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 14,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 4.0,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 5.4,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 5.0,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 130,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "variant_id": "Var_08_Annotation",
+    "risk_level": "YELLOW",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-03-01 23:36",
+      "clinical_diagnosis": "脓毒症伴高乳酸血症",
+      "patient_info": {
+        "name": "吴*才",
+        "sex": "女",
+        "age": 71,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20254783"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 450,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.34,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 95,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 97,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 14,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 4.0,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 5.15,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 5.0,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 130,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "variant_id": "Var_09_AllInHell",
+    "risk_level": "RED",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-02-26 23:36",
+      "clinical_diagnosis": "严重电解质紊乱 (高钾血症)",
+      "patient_info": {
+        "name": "郑*洁",
+        "sex": "女",
+        "age": 46,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20253961"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 450,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.4,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 95,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 97,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 14,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 7.2,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 1.0,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 5.0,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 130,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "variant_id": "Var_10_JPEG",
+    "risk_level": "YELLOW",
+    "report_metadata": {
+      "institution": "xx护理院",
+      "report_type": "检验报告单 (血气分析/生化)",
+      "test_date": "2026-03-02 23:36",
+      "clinical_diagnosis": "严重电解质紊乱 (高钾血症)",
+      "patient_info": {
+        "name": "冯*军",
+        "sex": "女",
+        "age": 62,
+        "ward": "心内科/ICU",
+        "clinical_id": "ID20252287"
+      }
+    },
+    "test_results": [
+      {
+        "id": 1,
+        "name": "氧合指数",
+        "abbreviation": "PaO2/FiO2",
+        "value": 450,
+        "range": "400 ~ 500",
+        "unit": "mmHg"
+      },
+      {
+        "id": 2,
+        "name": "酸碱度",
+        "abbreviation": "pH",
+        "value": 7.4,
+        "range": "7.35 ~ 7.45",
+        "unit": ""
+      },
+      {
+        "id": 3,
+        "name": "二氧化碳分压",
+        "abbreviation": "pCO2",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "mmHg"
+      },
+      {
+        "id": 4,
+        "name": "氧分压",
+        "abbreviation": "pO2",
+        "value": 95,
+        "range": "80 ~ 108",
+        "unit": "mmHg"
+      },
+      {
+        "id": 5,
+        "name": "实际碳酸氢盐",
+        "abbreviation": "HCO3-act",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 6,
+        "name": "二氧化碳总量",
+        "abbreviation": "tCO2",
+        "value": 26,
+        "range": "24 ~ 29",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 7,
+        "name": "实际剩余碱",
+        "abbreviation": "BE(act)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 8,
+        "name": "标准碳酸氢根",
+        "abbreviation": "HCO3-std",
+        "value": 24,
+        "range": "22 ~ 27",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 9,
+        "name": "标准剩余碱",
+        "abbreviation": "BE(std)",
+        "value": 0,
+        "range": "-3 ~ 3",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 10,
+        "name": "氧饱和度",
+        "abbreviation": "sO2",
+        "value": 97,
+        "range": "95.0 ~ 99.0",
+        "unit": "%"
+      },
+      {
+        "id": 11,
+        "name": "阴离子间隙",
+        "abbreviation": "AG",
+        "value": 14,
+        "range": "10 ~ 20",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 12,
+        "name": "钾",
+        "abbreviation": "K+",
+        "value": 5.55,
+        "range": "3.5 ~ 4.9",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 13,
+        "name": "钠",
+        "abbreviation": "Na+",
+        "value": 140,
+        "range": "135 ~ 145",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 14,
+        "name": "氯",
+        "abbreviation": "Cl-",
+        "value": 102,
+        "range": "96 ~ 108",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 15,
+        "name": "钙",
+        "abbreviation": "Ca2+",
+        "value": 1.2,
+        "range": "1.15 ~ 1.33",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 16,
+        "name": "乳酸",
+        "abbreviation": "Lac",
+        "value": 1.0,
+        "range": "0.5 ~ 1.7",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 17,
+        "name": "葡萄糖",
+        "abbreviation": "Glu",
+        "value": 5.0,
+        "range": "3.9 ~ 6.1",
+        "unit": "mmol/L"
+      },
+      {
+        "id": 18,
+        "name": "血红蛋白",
+        "abbreviation": "Hb",
+        "value": 130,
+        "range": "110 ~ 150",
+        "unit": "g/L"
+      },
+      {
+        "id": 19,
+        "name": "渗透压",
+        "abbreviation": "Osm",
+        "value": 290,
+        "range": "280 ~ 310",
+        "unit": "mmol/kg"
+      },
+      {
+        "id": 20,
+        "name": "红细胞压积",
+        "abbreviation": "Hct",
+        "value": 40,
+        "range": "35 ~ 45",
+        "unit": "%"
+      }
+    ]
+  }
+]
