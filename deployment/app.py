@@ -4,7 +4,7 @@ from typing import List, Optional
 import asyncio
 from langsmith import traceable  # LangSmith 集成
 
-from agent.medical_cal import calculate_derived_metrics
+from agent.medical_calc import calculate_derived_metrics
 from agent.reflection_logic import run_progressive_pruning
 
 app = FastAPI(title="RxLM-Med Agent API", version="1.0")
@@ -43,8 +43,8 @@ async def analyze_medical_report(request: AnalysisRequest):
             lab_items=request.lab_data.lab_items
         )
 
-        # Step 2: 反思推理（模拟耗时操作）
-        await asyncio.sleep(0.1)  # 模拟 I/O
+        # Step 2: 反思推理
+        await asyncio.sleep(0.1)  # Non-blocking asynchronous task execution
         result = run_progressive_pruning(extended_data, request.patient_context.dict())
 
         # Step 3: 构建 TLP 响应
