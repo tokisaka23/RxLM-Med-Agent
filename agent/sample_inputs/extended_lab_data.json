@@ -1,0 +1,20 @@
+{
+  "derived_metrics": {
+    "Anion_Gap": 22.0,
+    "PaO2_FiO2_estimated": 285.7,
+    "Acid_Base_Assessment": "酸中毒 代谢性",
+    "tCO2_calculated": 25.2,
+    "Osm_estimated": 290.0
+  },
+  "flags": {
+    "AG_high": true,
+    "PaO2_FiO2_abnormal": true,
+    "Lactate_critical": true
+  },
+  "original_lab": [
+    {"abbreviation": "Lac", "value": 4.8},
+    {"abbreviation": "pH", "value": 7.25},
+    {"abbreviation": "HCO3-act", "value": 16},
+    {"abbreviation": "pCO2", "value": 30}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "age": 62,
+  "gender": "M",
+  "symptoms": ["腹痛", "呕吐", "意识模糊"],
+  "exclude_history": ["喝符水治病"]
+}

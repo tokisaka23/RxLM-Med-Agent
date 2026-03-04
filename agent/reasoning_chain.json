@@ -1,0 +1,16 @@
+{
+  "reasoning_trace": [
+    "Initial hypothesis: 患者存在高阴离子间隙代谢性酸中毒，可能由糖尿病酮症酸中毒引起。; 乳酸显著升高，强烈提示感染性休克。; 氧合指数降低，符合急性呼吸窘迫综合征（ARDS）。",
+    "Correction (Retry 1): 声称'糖尿病酮症酸中毒'，但血糖未达诊断标准且无尿酮证据; 声称'感染性休克'，但缺乏感染证据（症状或白细胞）",
+    "Critic review PASSED."
+  ],
+  "derived_metrics": {
+    "Anion_Gap": 22.0,
+    "PaO2_FiO2_estimated": 285.7,
+    "Acid_Base_Assessment": "酸中毒 代谢性",
+    "tCO2_calculated": 25.2,
+    "Osm_estimated": 290.0
+  },
+  "clinical_conclusion": "存在高阴离子间隙代谢性酸中毒合并乳酸升高，具体病因需进一步检查。",
+  "risk_level_assessment": "RED"
+}
