@@ -3,10 +3,15 @@
 > **RxLM-Med** is a production-grade clinical AI agent that interprets blood test reports through **structured reasoning**, **evidence-backed validation**, and **human-aligned communication** — all governed by an adaptive **Traffic Light Protocol (TLP)** for patient safety.  
 > Built on Qwen-VL, trained on synthetic EHRs, and hardened against hallucination via **System 2 self-correction**.
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](#)[![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-red?logo=pytorch)](#)[![Qwen-VL](https://img.shields.io/badge/Qwen--VL-2.5-orange)](#)[![FastAPI](https://img.shields.io/badge/FastAPI-Async--Ready-green?logo=fastapi)](#)[![LangSmith](https://img.shields.io/badge/LangSmith-Observability-purple?logo=langchain)](#)[![DeepSpeed](https://img.shields.io/badge/DeepSpeed-ZeRO--2-yellow?logo=nvidia)](#)[![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)](#)[![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey)](#)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-red?logo=pytorch)](#) [![Qwen-VL](https://img.shields.io/badge/Qwen--VL-2.5-orange)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-Async--Ready-green?logo=fastapi)](#) [![LangSmith](https://img.shields.io/badge/LangSmith-purple?logo=langchain)](#) [![DeepSpeed](https://img.shields.io/badge/DeepSpeed-ZeRO--2-yellow?logo=nvidia)](#) [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](#) [![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey)](#)
 
-![RxLM-Med Architecture](docs/architecture.png)
+<!-- Full-resolution architecture diagram available [here](docs/architecture.png) -->
+![RxLM-Med Simplified Architecture](docs/architecture_simplified.png)
 
+> 🔍 **See detailed end-to-end pipeline**: [Complete Architecture Diagram](docs/architecture.png)
+
+> ⚠️ The simplified version above highlights the **four-layer abstraction** (Visual → Knowledge → Reasoning → Alignment).  
+> For a **comprehensive view of data flow, logic checks, and safety triggers**, refer to the full diagram.
 ---
 
 ## 🌟 Vision & Problem Statement
