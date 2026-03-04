@@ -95,7 +95,7 @@ RxLM-Med implements a **strictly layered, fail-safe pipeline** across five phase
 
 ### Installation
 ```bash
-git clone https://github.com/yourname/RxLM-Med.git
+git clone https://github.com/<YOUR_GITHUB_USERNAME>/RxLM-Med-Agent.git
 cd RxLM-Med
 pip install -r requirements.txt
 uvicorn deployment.app:app --host 0.0.0.0 --port 8000 --reload
