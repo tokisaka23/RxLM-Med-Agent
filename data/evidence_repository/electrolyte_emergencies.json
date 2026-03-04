@@ -1,0 +1,10 @@
+{
+  "key": "electrolyte_emergencies",
+  "title": "电解质危急值处理",
+  "evidence_text": "高钾血症（K+ >6.0 mmol/L）可致致命性心律失常，需立即心电图评估。低钠血症（Na+ <120 mmol/L）可致脑水肿，纠正速度不应超过 8-10 mmol/L/24h。严重低钙（Ca2+ <1.0 mmol/L）可致手足搐搦或喉痉挛。",
+  "diagnostic_criteria": {
+    "Hyperkalemia_critical": "K+ > 6.0 mmol/L",
+    "Hyponatremia_severe": "Na+ < 120 mmol/L"
+  },
+  "red_flags": ["K+ >6.0", "Na+ <120", "Ca2+ <1.0"]
+}

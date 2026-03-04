@@ -1,0 +1,10 @@
+{
+  "key": "acid_base_disorders",
+  "title": "酸碱平衡紊乱诊断框架",
+  "evidence_text": "代谢性酸中毒分为高阴离子间隙型（HAGMA）和正常阴离子间隙型（NAGMA）。HAGMA 常见病因包括：乳酸酸中毒、酮症酸中毒（糖尿病/酒精/饥饿）、肾衰、毒物（甲醇、乙二醇、水杨酸）。NAGMA 常见于腹泻、肾小管酸中毒、碳酸酐酶抑制剂使用。",
+  "diagnostic_criteria": {
+    "HAGMA": "AG > 20 mmol/L + HCO3- < 22 mmol/L",
+    "Lactic_Acidosis": "Lac > 4 mmol/L + pH < 7.35"
+  },
+  "red_flags": ["乳酸 >4", "AG > 25", "pH < 7.2"]
+}

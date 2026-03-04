@@ -1,0 +1,10 @@
+{
+  "key": "respiratory_failure",
+  "title": "呼吸衰竭分类与 ARDS 诊断",
+  "evidence_text": "I型呼衰：PaO2<60，PaCO2正常或降低（如肺炎、PE、ARDS）。II型呼衰：PaO2<60 且 PaCO2>50（如COPD急性加重）。ARDS 诊断需满足：1) 急性起病；2) 双肺浸润影；3) 非心源性肺水肿；4) PaO2/FiO2 ≤300（轻度），≤200（中重度）。",
+  "diagnostic_criteria": {
+    "ARDS_mild": "200 < PaO2/FiO2 ≤ 300",
+    "ARDS_moderate_severe": "PaO2/FiO2 ≤ 200"
+  },
+  "red_flags": ["PaO2/FiO2 <200", "sO2 <90% on room air"]
+}

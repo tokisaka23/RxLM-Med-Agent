@@ -1,0 +1,12 @@
+{
+  "key": "critical_lab_values",
+  "title": "临床危急值清单",
+  "evidence_text": "危急值指可能危及生命的检验结果，需立即通知临床。常见包括：pH <7.2 或 >7.6；K+ <2.5 或 >6.0；Glu <2.2 或 >33.3；Hb <50；Lac >4.0。",
+  "critical_ranges": {
+    "pH": {"low": 7.2, "high": 7.6},
+    "K+": {"low": 2.5, "high": 6.0},
+    "Glu": {"low": 2.2, "high": 33.3},
+    "Hb": {"low": 50},
+    "Lac": {"high": 4.0}
+  }
+}
