@@ -192,7 +192,7 @@ RxLM-Med/
 ## Ethical Compliance & Disclaimer
 RxLM-Med adheres to "AI as Assistant, Not Authority":
 - ❌ Never prescribes medication
-- ❌ Never overrides危急值 alerts
+- ❌ Never overrides critical value alerts
 - ✅ Always cites source (e.g., "《诊断学》P.562")
 - ✅ Outputs include mandatory footer:
 
