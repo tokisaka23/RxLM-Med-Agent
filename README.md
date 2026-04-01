@@ -91,17 +91,47 @@ RxLM-Med implements a **strictly layered, fail-safe pipeline** across five phase
 
 ---
 
-## 🚀 Quick Start
+### 📚 Hierarchical Knowledge Base (分层医学知识图谱语料库)
 
-### Installation
-```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/RxLM-Med-Agent.git
-cd RxLM-Med
-pip install -r requirements.txt
-uvicorn deployment.app:app --host 0.0.0.0 --port 8000 --reload
-```
+To ensure the System 2 Reasoning engine traces back to authoritative, textbook-level truth (Tier 0/1 Evidence), the RAG database is architected across three distinct cognitive layers, utilizing the standard Chinese medical education curriculum (People's Medical Publishing House, 10th Edition) as the core corpus.
+
+#### Layer 1: Fundamental Sciences (基础教材)
+*Provides baseline mechanistic reasoning (Physiology, Biochemistry, Anatomy).*
+- 《系统解剖学》（第10版） / 《局部解剖学》（第10版）
+- 《组织学与胚胎学》（第10版） / 《生理学》（第10版）
+- 《生物化学与分子生物学》（第10版） / 《医学细胞生物学》（第7版）
+- 《医学遗传学》（第8版） / 《医学生物学》（第10版）
+- 《医学免疫学》（第8版） / 《基础化学》（第10版） / 《有机化学》（第10版）
+- 《医学物理学》（第10版） / 《医用高等数学》（第8版）
+
+#### Layer 2: Bridge & Diagnostic Sciences (桥梁与诊断教材)
+*Connects mechanisms to clinical manifestations (Pathology, Pharmacology, Diagnostics).*
+- **《诊断学》（第10版）** *(Core Routing Node)*
+- 《病理学》（第10版） / 《病理生理学》（第10版）
+- 《药理学》（第10版） / 《临床药理学》（第7版）
+- 《医学微生物学》（第10版） / 《人体寄生虫学》（第10版）
+- 《医学影像学》（第9版） / 《核医学》（第10版）
+- 《流行病学》（第10版） / 《临床流行病学与循证医学》（第6版）
+- 《医学统计学》（第8版） / 《预防医学》（第8版）
+- 《法医学》（第8版） / 《医学心理学》（第8版）
+
+#### Layer 3: Specialized Clinical Medicine (专门临床教材)
+*Executes differential diagnosis and treatment alignments.*
+- **《内科学》（第10版）** / **《外科学》（第10版）**
+- 《妇产科学》（第10版） / 《儿科学》（第10版）
+- 《神经病学》（第9版） / 《精神病学》（第9版）
+- 《传染病学》（第10版） / 《急诊与灾难医学》（第4版）
+- 《眼科学》（第10版） / 《耳鼻咽喉头颈外科学》（第10版）
+- 《皮肤性病学》（第10版） / 《口腔科学》（第10版）
+- 《麻醉学》（第5版） / 《康复医学》（第7版）
+- 《老年医学》（本科配增值） / 《全科医学概论》（第6版）
+- 《临床营养学》（本科配增值） / 《中医学》（第10版）
+
+> **Note on Implementation:** Due to copyright and compute constraints, the current open-source repository contains a scaled-down subset of vector embeddings (JSON extracts) for demonstration. The architecture is fully compatible with the 53-book complete corpus injection.
 
 ---
+
+## 🚀 Sample API Usage
 
 ### Sample Request
 ```json
